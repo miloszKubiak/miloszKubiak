@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, My name is Miłosz</h1>
 <h3 align="center">I am a computer science student focused on programming. I mainly focus on the frontend.</h3>
 
-- 🌱 I’m currently learning **JavaScript, React.**
+- 🌱 I’m currently learning **React.**
 
-- 📫 How to reach me **kubiakmilosz91@gmail.com**
-
-- ⚡ Fun fact **I'm a big fan of the Witcher and Cyberpunk universe.**
+- ⚡ Fun fact **I'm a big fan of the Witcher, Cyberpunk and Warcraft universe.**
 <p align="left">
 </p>
 
