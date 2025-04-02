@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, My name is Miłosz</h1>
-<h3 align="center">I am a computer science student focused on programming. I mainly focus on the frontend.</h3>
-
-- 🌱 I’m currently learning **React and TypeScript.**
-
-- ⚡ Fact **I'm a big fan of the Witcher, Cyberpunk and Warcraft universe.**
+<h3 align="center">I'm a frontend developer passionate about creating responsive and visually appealing web applications. My main technologies are TypeScript, React, Next.js, and Tailwind CSS, which I use to build dynamic and modern user interfaces. I love exploring new solutions and ensuring the highest code quality. </h3>
 <p align="left">
 </p>
 
